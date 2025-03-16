@@ -1,0 +1,8 @@
+[package]
+name = "omnioffice"
+version = "0.0.0"
+edition = "2024"
+authors = ["Daniel José García Paz"]
+keywords = ["office", "word", "excel", "powerpoint", "docx", "xlsx", "pptx"]
+
+[dependencies]
